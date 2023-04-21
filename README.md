@@ -38,5 +38,6 @@ If you encounter any issues while using the YouTube Downloader, please ensure th
 # Contribution  
 Contributions to the YouTube Downloader are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
 
-Credits
+# Credits  
+
 The YouTube Downloader was developed using the pytube library, which is maintained by Nick Ficano. Special thanks to the pytube library contributors for their efforts in creating and maintaining the library.
