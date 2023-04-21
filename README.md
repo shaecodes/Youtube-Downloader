@@ -35,10 +35,7 @@ Please note that downloading YouTube videos may violate the terms of service of 
 # Troubleshooting  
 If you encounter any issues while using the YouTube Downloader, please ensure that you have installed Python 3.x and the pytube library correctly. Also, make sure you have a stable internet connection to access YouTube. If the issue persists, please refer to the pytube library documentation or seek assistance from the community.
 
-License
-The YouTube Downloader is released under the MIT License. You can find the license details in the LICENSE file.
-
-Contribution
+# Contribution  
 Contributions to the YouTube Downloader are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
 
 Credits
