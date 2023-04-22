@@ -37,7 +37,7 @@ try:
         elif answer.lower() == "a":
             yd = yt.streams.get_audio_only()
             file_path = yd.download(f"/Users/{username}/Downloads")
-            messagebox.showinfo("Save", "Your video has been saved in your Downloads folder")
+            messagebox.showinfo("Save", "Your audio has been saved in your Downloads folder")
             break
         elif answer.lower() == "q":
             print("Downloader Closed")
